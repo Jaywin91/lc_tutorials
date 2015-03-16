@@ -1,4 +1,4 @@
-package demo;
+package ie.cit.caf.lc_tutorial3.test;
 
 import ie.cit.caf.lc_tutorial3.LcTutorial3Application;
 
