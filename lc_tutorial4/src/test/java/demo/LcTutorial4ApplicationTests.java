@@ -1,6 +1,6 @@
 package demo;
 
-import ie.cit.caf.lc_tutorial4.LcTutorial3Application;
+import ie.cit.caf.lc_tutorial3.LcTutorial3Application;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
